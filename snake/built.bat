@@ -1,0 +1,1 @@
+g++ -ggdb source.cpp -I"D:\raylib" -L"D:\raylib" -l:"libraylib.a" -lwinmm -lgdi32 -o program
